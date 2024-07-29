@@ -4,7 +4,7 @@ import "../styles/globals.css";
 const page = () => {
   return (
     <div>
-      <Nav />
+      <h1>Hello lil baby</h1>
     </div>
   );
 };
